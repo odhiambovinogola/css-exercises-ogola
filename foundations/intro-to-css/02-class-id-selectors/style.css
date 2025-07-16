@@ -11,3 +11,9 @@
 .standout {
   font-size: 24px;
 }
+
+#secondary-block {
+  background-color: #80ff80;
+  font-size: 24px;
+  font-weight: bold;
+}
